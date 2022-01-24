@@ -1,5 +1,16 @@
 # @urlpack/msgpack
 
+## 2.0.0
+
+### Major Changes
+
+- 858692a: Changed the msgpack extension signature, and reimplemented decoder
+- ebbf3d3: Drop UMD support and change to ESM-first package
+
+### Minor Changes
+
+- c8ff827: switch to ESM first
+
 ## 1.0.3
 
 ### Patch Changes
